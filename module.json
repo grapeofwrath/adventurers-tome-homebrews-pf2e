@@ -1,0 +1,82 @@
+{
+  "id": "adventurers-tome-homebrews-pf2e",
+  "title": "Adventurer's Tome Homebrews - PF2e",
+  "description": "Custom assets packaged in compendiums for the PF2e system in Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "grapeofwrath",
+      "discord": "grapeofwrath#3377"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "ATH Actors",
+      "path": "/packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "pf2e"
+    },
+    {
+      "name": "adventure",
+      "label": "ATH Adventures",
+      "path": "/packs/adventure.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "system": "pf2e"
+    },
+    {
+      "name": "cards",
+      "label": "ATH Cards",
+      "path": "/packs/cards.db",
+      "entity": "Cards",
+      "type": "Cards"
+    },
+    {
+      "name": "items",
+      "label": "ATH Items",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "journals",
+      "label": "ATH Journals",
+      "path": "/packs/journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "ATH Macros",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    },
+    {
+      "name": "maps",
+      "label": "ATH Scenes",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "rolltables",
+      "label": "ATH Roll Tables",
+      "path": "/packs/rolltables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    }
+  ],
+  "url": "https://github.com/grapeofwrath/adventurerstome-homebrews-pf2e",
+  "manifest": "https://github.com/grapeofwrath/adventurerstome-homebrews-pf2e/blob/main/module.json",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
