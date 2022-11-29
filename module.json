@@ -39,14 +39,6 @@
       "type": "Cards"
     },
     {
-      "name": "items",
-      "label": "ATH Items",
-      "path": "/packs/items.db",
-      "entity": "Item",
-      "type": "Item",
-      "system": "pf2e"
-    },
-    {
       "name": "journals",
       "label": "ATH Journals",
       "path": "/packs/journals.db",
@@ -73,6 +65,150 @@
       "path": "/packs/rolltables.db",
       "entity": "RollTable",
       "type": "RollTable"
+    },
+    {
+      "name": "armor",
+      "label": "ATH Armors",
+      "path": "/packs/armor.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "consumable",
+      "label": "ATH Consumables",
+      "path": "/packs/consumable.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "container",
+      "label": "ATH Containers",
+      "path": "/packs/container.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "equipment",
+      "label": "ATH Equipment",
+      "path": "/packs/equipment.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "kit",
+      "label": "ATH Kits",
+      "path": "/packs/kit.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "treasure",
+      "label": "ATH Treasure",
+      "path": "/packs/treasure.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "weapon",
+      "label": "ATH Weapons",
+      "path": "/packs/weapon.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "ancestry",
+      "label": "ATH Ancestries",
+      "path": "/packs/ancestry.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "background",
+      "label": "ATH Backgrounds",
+      "path": "/packs/background.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "class",
+      "label": "ATH Classes",
+      "path": "/packs/class.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "deity",
+      "label": "ATH Deities",
+      "path": "/packs/deity.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "feat",
+      "label": "ATH Feats",
+      "path": "/packs/feat.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "feature",
+      "label": "ATH Features",
+      "path": "/packs/feature.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "heritage",
+      "label": "ATH Heritages",
+      "path": "/packs/heritage.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "action",
+      "label": "ATH Actions",
+      "path": "/packs/action.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "effect",
+      "label": "ATH Effects",
+      "path": "/packs/effect.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "npc-attack",
+      "label": "ATH NPC Attacks",
+      "path": "/packs/npc-attack.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "spell",
+      "label": "ATH Spells",
+      "path": "/packs/spell.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
     }
   ],
   "url": "https://github.com/grapeofwrath/adventurerstome-homebrews-pf2e",
