@@ -209,6 +209,14 @@
       "entity": "Item",
       "type": "Item",
       "system": "pf2e"
+    },
+    {
+      "name": "relic",
+      "label": "ATH Relics",
+      "path": "/packs/relic.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf2e"
     }
   ],
   "url": "https://github.com/grapeofwrath/adventurerstome-homebrews-pf2e",
